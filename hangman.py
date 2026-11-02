@@ -1,9 +1,8 @@
 import random
 import pygame
 import time
-
 #500, 300 center of the window 
-
+#Code would occur error due to missing files for mp4 which is missing, this is intended just delete the line for mp4 which would fix the error
 ###PYGAME###
 pygame.mixer.init()
 pygame.init()
